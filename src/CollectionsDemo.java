@@ -16,8 +16,8 @@ public class CollectionsDemo {
         Collections.sort(cities);
         System.out.println(cities);
         
-        int idx=Collections.binarySearch(cities, "delhi");
-        System.out.println("Index of delhi : "+idx);
+        //int idx=Collections.binarySearch(cities, "delhi");
+        //System.out.println("Index of delhi : "+idx);
         
     }
 }
